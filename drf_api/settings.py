@@ -64,9 +64,10 @@ ALLOWED_HOSTS = [
     os.environ.get("ALLOWED_HOST"),
     "moments-dj-combined-d82beecc8208.herokuapp.com",
     "localhost",
-    "8080-soroushgrez-momentsdjco-jg9nozjhwos.ws-us106.gitpod.io",
-    "8000-soroushgrez-momentsdjco-jg9nozjhwos.ws-us106.gitpod.io",
-    "8000-soroushgrez-momentsdjco-jg9nozjhwos.ws-us105.gitpod.io",
+    "soroushgrez-drfapimomen-i219kpnw7je.ws-us106.gitpod.io",
+    "8000-soroushgrez-drfapimomen-i219kpnw7je.ws-us106.gitpod.io",
+
+    
 ]
 
 
