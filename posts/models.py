@@ -22,7 +22,7 @@ class Post(models.Model):
     content = models.TextField(blank=True)
     image = models.ImageField(
         upload_to='images',
-        default='../default_post_gqft4x',
+        default='../image_seryuo',
         blank=True
     )
     image_filter = models.CharField(
